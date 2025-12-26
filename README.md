@@ -38,7 +38,7 @@
 
 - **Hotel Booking System**  
   [Repo](https://github.com/michelle-baalbaky/SmartHotelSystem.git)  
-  Java-based system for hotel room booking, handling reservations, availability, and guest management.
+  C++ based system for hotel room booking, handling reservations, availability, and guest management.
 
 - **JavaFX Project**  
   [Repo](https://github.com/Dia8897/JavaFXProjectDb.git)  
